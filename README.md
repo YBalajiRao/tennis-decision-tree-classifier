@@ -3,7 +3,7 @@
 This project explores building a decision tree classifier to predict whether to play tennis based on weather conditions. The dataset used in this project contains information about outlook, temperature, humidity, windiness, and the decision to play tennis.
 
 ## Dataset
-The dataset used in this project is stored in `tennis.csv`, which contains the following columns:
+The dataset used in this project is stored in [tennis.csv](https://github.com/YBalajiRao/tennis-decision-tree-classifier/blob/main/tennis.csv), which contains the following columns:
 - Outlook: Weather outlook (sunny, overcast, rainy)
 - Temp: Temperature (hot, mild, cool)
 - Humidity: Humidity level (high, normal)
